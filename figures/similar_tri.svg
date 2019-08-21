@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="280" height="115">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="115">
   <!-- Similarity of Angles 相似三角形 -->
   <g id="tri1">
     <path d="M50 0 L0 73.5 100 73.5 50 0 M93 62 A10,10 0 0 0, 86 73.5" stroke="black" fill="none" />
-	  <path d="M43 12 A10,10 0 0 0, 57 12 M12 73.5 A12,12 0 0 0, 7.5 64" stroke="black" fill="none" />
+    <path d="M43 12 A10,10 0 0 0, 57 12 M12 73.5 A12,12 0 0 0, 7.5 64" stroke="black" fill="none" />
   </g>
   <use xlink:href="#tri1" x="120" y="0" transform="scale(1.2)" />
   <text x="0" y="88">A</text>
